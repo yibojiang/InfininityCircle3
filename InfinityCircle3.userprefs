@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/Object/CreditsTrigger.js">
+    <Files>
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js" Line="258" Column="37" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/FootStep.js" Line="23" Column="21" />
+      <File FileName="Assets/Game/Scripts/PlayerController.js" Line="35" Column="26" />
+      <File FileName="Assets/Game/Scripts/Object/PlaceObj.js" Line="22" Column="1" />
+      <File FileName="Assets/Game/Scripts/Object/Candle.js" Line="16" Column="22" />
+      <File FileName="Assets/Game/Scripts/Object/MainEntrance.js" Line="35" Column="2" />
+      <File FileName="Assets/Game/Scripts/Object/Door.js" Line="25" Column="1" />
+      <File FileName="Assets/Game/Scripts/Object/StrongBox.js" Line="52" Column="2" />
+      <File FileName="Assets/Game/Scripts/Object/BlackManTrigger2.js" Line="21" Column="2" />
+      <File FileName="Assets/Game/Scripts/Object/HeartBeatTrigger.js" Line="12" Column="20" />
+      <File FileName="Assets/Game/Scripts/Object/CreditsTrigger.js" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

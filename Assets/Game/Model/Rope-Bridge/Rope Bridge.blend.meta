@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 66e95304f5c7a4129bb8073dcfc4aa00
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Brett2
+    100004: Brett3
+    100006: Brett4
+    100008: Brett1
+    100010: Brett4_001
+    100012: Brett2_001
+    100014: Brett3_001
+    100016: Brett4_002
+    100018: Brett1_001
+    100020: Brett3_002
+    100022: Brett2_002
+    100024: Brett3_003
+    100026: Brett2_003
+    100028: Brett2_004
+    100030: Cylinder
+    100032: Cylinder_001
+    400000: //RootNode
+    400002: Brett2
+    400004: Brett3
+    400006: Brett4
+    400008: Brett1
+    400010: Brett4_001
+    400012: Brett2_001
+    400014: Brett3_001
+    400016: Brett4_002
+    400018: Brett1_001
+    400020: Brett3_002
+    400022: Brett2_002
+    400024: Brett3_003
+    400026: Brett2_003
+    400028: Brett2_004
+    400030: Cylinder
+    400032: Cylinder_001
+    2300000: Brett2
+    2300002: Brett3
+    2300004: Brett4
+    2300006: Brett1
+    2300008: Brett4_001
+    2300010: Brett2_001
+    2300012: Brett3_001
+    2300014: Brett4_002
+    2300016: Brett1_001
+    2300018: Brett3_002
+    2300020: Brett2_002
+    2300022: Brett3_003
+    2300024: Brett2_003
+    2300026: Brett2_004
+    2300028: Cylinder
+    2300030: Cylinder_001
+    3300000: Brett2
+    3300002: Brett3
+    3300004: Brett4
+    3300006: Brett1
+    3300008: Brett4_001
+    3300010: Brett2_001
+    3300012: Brett3_001
+    3300014: Brett4_002
+    3300016: Brett1_001
+    3300018: Brett3_002
+    3300020: Brett2_002
+    3300022: Brett3_003
+    3300024: Brett2_003
+    3300026: Brett2_004
+    3300028: Cylinder
+    3300030: Cylinder_001
+    4300000: Cylinder_001
+    4300002: Cylinder
+    4300004: Brett2_004
+    4300006: Brett2_003
+    4300008: Brett3_003
+    4300010: Brett2_002
+    4300012: Brett3_002
+    4300014: Brett1_001
+    4300016: Brett4_002
+    4300018: Brett3_001
+    4300020: Brett2_001
+    4300022: Brett4_001
+    4300024: Brett1
+    4300026: Brett4
+    4300028: Brett3
+    4300030: Brett2
+    7400000: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

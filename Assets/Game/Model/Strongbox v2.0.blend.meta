@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 470503fd1199c4117b34f803f2ff6998
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Kuciste_MeshPart2
+    100002: Soba
+    100004: Kuciste_MeshPart1
+    100006: Kuciste
+    100008: brojcanik
+    100010: kvaka_MeshPart1
+    100012: SIPKE
+    100014: Kuciste_MeshPart3
+    100016: kvaka_MeshPart0
+    100018: Vrata
+    100020: kvaka
+    100022: Kuciste_MeshPart0
+    100024: g_sarkice
+    100026: //RootNode
+    100028: Empty
+    100030: d_sarkice
+    400000: Kuciste_MeshPart2
+    400002: Soba
+    400004: Kuciste_MeshPart1
+    400006: Kuciste
+    400008: brojcanik
+    400010: kvaka_MeshPart1
+    400012: SIPKE
+    400014: Kuciste_MeshPart3
+    400016: kvaka_MeshPart0
+    400018: Vrata
+    400020: kvaka
+    400022: Kuciste_MeshPart0
+    400024: g_sarkice
+    400026: //RootNode
+    400028: Empty
+    400030: d_sarkice
+    2300000: Kuciste_MeshPart2
+    2300002: Soba
+    2300004: Kuciste_MeshPart1
+    2300006: brojcanik
+    2300008: kvaka_MeshPart1
+    2300010: SIPKE
+    2300012: Kuciste_MeshPart3
+    2300014: kvaka_MeshPart0
+    2300016: Vrata
+    2300018: Kuciste_MeshPart0
+    2300020: g_sarkice
+    2300022: d_sarkice
+    3300000: Kuciste_MeshPart2
+    3300002: Soba
+    3300004: Kuciste_MeshPart1
+    3300006: brojcanik
+    3300008: kvaka_MeshPart1
+    3300010: SIPKE
+    3300012: Kuciste_MeshPart3
+    3300014: kvaka_MeshPart0
+    3300016: Vrata
+    3300018: Kuciste_MeshPart0
+    3300020: g_sarkice
+    3300022: d_sarkice
+    4300000: Vrata
+    4300002: SIPKE
+    4300004: kvaka_MeshPart0
+    4300006: kvaka_MeshPart1
+    4300008: brojcanik
+    4300010: g_sarkice
+    4300012: Soba
+    4300014: Kuciste_MeshPart0
+    4300016: Kuciste_MeshPart1
+    4300018: Kuciste_MeshPart2
+    4300020: Kuciste_MeshPart3
+    4300022: d_sarkice
+    7400000: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
